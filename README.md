@@ -2,7 +2,7 @@
 
 **Software Developer** | Chicago, IL
 
-+1(312)561-0879 | [E-mail](mailto:akshantjain.com) | [Portfolio](https://akshantjain.com) | [LinkedIn](www.linkedin.com/in/akshantjain) | [GitHub](https://github.com/akshantjain)
++1(312)561-0879 | [E-mail](mailto:akshantjain.com) | [Portfolio](https://akshantjain.com) | [LinkedIn](www.linkedin.com/in/akshantjain) | [GitHub](https://github.com/akshantjain) | [Resume](https://www.icloud.com/iclouddrive/0dGE4q-S3sSFSrkWJJDstSoYQ#Akshant-Jain-Developer-Resume)
 
 ## Summary
 Software Developer and Computer Science graduate with experience in developing web applications, website and interfaces using React and JavaScript. Three years of experience with Front-end development, looking for new full-time opportunities to grow as a Full stack Engineer
@@ -23,9 +23,9 @@ Software Developer and Computer Science graduate with experience in developing w
 
 | Skills		| Description
 | :------------ | :------------------------------------------------------------------------------------	|
-| Languages		| Java, JavaFX, C++, Python, HTML, CSS, JavaScript, Bootstrap, SQL, TypeScript, Ruby 	|
+| Languages		| Java, JavaFX, C++, Python, HTML, CSS, JavaScript, Bootstrap, SQL, TypeScript, Ruby, Kotlin 	|
 | Tools & Tech	| Web Development, Google Firebase, Netlify, Arduino, Git, Postman, API, VSCode, GitHub |
-| Frameworks	| React.js, Express.js, Node.js, Tailwind CSS, Material UI 								|
+| Frameworks	| React.js, Express.js, Node.js, Tailwind CSS, Material UI, Spring Boot 								|
 
 <!--
 ## Projects
@@ -47,4 +47,3 @@ Software Developer and Computer Science graduate with experience in developing w
 - Web Development and Applications 
 - User Interface Design
 - Object Oriented Programming
-
