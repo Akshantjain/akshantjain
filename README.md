@@ -1,6 +1,6 @@
 # [ Akshant Jain](https://akshantjain.com)
 
-**Software Developer** | Chicago, IL
+**Software Developer** | Princeton, NJ
 
 +1(312)561-0879 | [E-mail](mailto:akshantjain.com) | [Portfolio](https://akshantjain.com) | [LinkedIn](www.linkedin.com/in/akshantjain) | [GitHub](https://github.com/akshantjain) | [Resume](https://www.icloud.com/iclouddrive/0dGE4q-S3sSFSrkWJJDstSoYQ#Akshant-Jain-Developer-Resume)
 
