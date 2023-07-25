@@ -1,8 +1,8 @@
-# [ Akshant Jain](https://akshantjain.com)
+# [Akshant Jain](https://akshantjain.com)
 
 **Software Developer** | Princeton, NJ
 
-+1(312)561-0879 | [E-mail](mailto:akshantjain.com) | [Portfolio](https://akshantjain.com) | [LinkedIn](www.linkedin.com/in/akshantjain) | [GitHub](https://github.com/akshantjain) | [Resume](https://www.icloud.com/iclouddrive/0dGE4q-S3sSFSrkWJJDstSoYQ#Akshant-Jain-Developer-Resume)
++1(312)561-0879 | [E-mail](mailto:akshantjain.com) | [Portfolio](https://akshantjain.com) | [LinkedIn](www.linkedin.com/in/akshantjain) | [GitHub](https://github.com/akshantjain) | [Resume](https://drive.google.com/file/d/1Z8qkgr-FaE_XrNqkyuuPRSYehVIfRrBq/view?usp=sharing)
 
 ## Summary
 Skilled software engineer with 3 years of experience in software development. Proven track record of developing and delivering high-quality software applications. Expertise in Java, Spring Boot, and React.js. Strong problem-solving and analytical skills. Excellent communication and teamwork skills.
