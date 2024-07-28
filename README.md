@@ -1,84 +1,58 @@
-# [Akshant Jain](https://akshantjain.com)
+# Akshant Jain
 
-**Software Developer** | Princeton, NJ
+(312) 561-0879 | Princeton NJ | akshant.jain2@gmail.com | [linkedin.com/in/akshantjain](https://www.linkedin.com/in/akshantjain)
 
-+1(312)561-0879 | [E-mail](mailto:akshantjain.com) | [Portfolio](https://akshantjain.com) | [LinkedIn](www.linkedin.com/in/akshantjain) | [GitHub](https://github.com/akshantjain) | [Resume](https://drive.google.com/file/d/1Z8qkgr-FaE_XrNqkyuuPRSYehVIfRrBq/view?usp=sharing)
+## EXPERIENCE
 
-## Summary
-Skilled software engineer with 3 years of experience in software development. Proven track record of developing and delivering high-quality software applications. Expertise in Java, Spring Boot, and React.js. Strong problem-solving and analytical skills. Excellent communication and teamwork skills.
+### Software Engineer
+**InnCreTech LLC**  
+Princeton, NJ  
+**October 2023 – Present**
 
-## Education
-**University of Illinois at Chicago**, Chicago, IL
-
-**Graduated**: May 2021
-
-**Bachelor of Science** in Computer Science
-
-- Minor in Mathematics
-- Member of Association for Computing Machinery (ACM)
-
-## Experience
-### Senior Programmer Analyst
-**InnCreTech, Princeton, NJ** | *January 2023 – Present*
-- Worked with the Tech Lead, Project Manager and design team and converted UI designs into technical design.
-- Worked in Object-Oriented Programming (OOP) and Functional Programming (FP) style with Java, and JavaScript.
-- Developed new features from scratch using Java, Spring Boot, React, TypeScript, HTML5, TailwindCSS.
-- By Understanding Client’s requirements, developed features to enable clients to use their data in a more efficient and robust manner.
-- Participated in the SDLC life cycle in the development of technology roadmaps to evolve the API for clients for better design and scalability.
-- Developed System Design and Features in HTTP and REST architecture.
-- Participate in database design implementation on the applications using MySQL.
-- Used design patterns, enterprise architecture, and software engineering principles and delivered stable and robust software application features.
-- Performed code reviews of git pull requests and technical design reviews.
-- Using User Experience design knowledge, fixed UI/UX issues and refined user interface behaviors by developing widgets and tools that enabled clients for a better user experience.
-- Part of the Core Tech team which prepares and install solutions by determining and designing system specifications, standards, and Computer Programming.
-- Trained and mentored the juniors on agile methodology, development, and software best practices.
-
+- Aggregated customer data from multiple sources into a dynamic visualization module for better BI capabilities.
+- Crafted RESTful APIs using Spring Boot enabling seamless translation of user input into SQL queries resulting in a remarkable 90% enhancement in both speed and accuracy propelling the user interface.
+- Integrated customer data into a React.js application built using Next.js enhancing it with:
+  - Highcharts plugin for improved data visualization and insights.
+  - Shared BI interfaces to facilitate cross-functional team collaboration and data-driven decision-making.
+- Deployed OpenAI solutions to improve the customer experience by:
+  - Generating tailored data visualizations from natural language requests.
+  - Analyzing data trends, anomalies, and correlations for comprehensive BI insights.
+  - Suggesting improvements to data and charts for optimized visualizations and reducing efforts by 30%.
+- Strengthened the customer login experience and security by using JWT-based session and global timeout.
 
 ### Programmer Analyst
+**InnCreTech LLC**  
+Princeton, NJ  
+**October 2021 – September 2023**
 
-**InnCreTech, Princeton, NJ** | *October 2021 – December 2022*
-- Developed new UI features from scratch using React, TypeScript, HTML5, TailwindCSS.
-- Work on application migrations from AngularJS to ReactJS with design and architecture improvements.
-- Worked in Functional Programming (FP) style with JavaScript.
-- Used APIs extensively and gained a solid understanding of HTTP and REST architecture.
-- Worked in a rapid and dynamic environment with different methodologies such as Scrum, and Agile.
+- Developed an end-to-end platform to simplify and streamline private debt capital markets and deal processes.
+- Executed the migration on the platform from Angular.js to React.js resulting in 65% reduction in API calls, 55% improvement in page loading time, and significant improvement in the aesthetics and performance.
+- Engineered a comprehensive coverage module enabling historical retrieval of information between lenders and sponsors for improved insights into their interactions throughout the entire journey.
+- Infused an NDA security layer into the deal process enabling sponsors to promptly and effectively notify lenders about the confidential nature of information shared during the process and any associated terms.
+- Consistently contributed to the production monitoring team successfully resolving approximately 10 production bugs per month and shipping an average of 5 software patches monthly.
+- Enhanced material management in Additive Manufacturing to improve control planning and material flow across facilities and decrease the errors by 50%.
+- Integrated material management into the platform for automated computations and improved process connectivity and reduced manual effort by 95% and improved the speed by 25%.
+- Guided the development of the system through meticulous requirement gathering, product specification document standard establishment, coding, testing, deployment, user training, and continuous support.
+- Implemented design patterns, enterprise architecture, and software engineering principles to ensure the delivery of dependable and resilient software application features.
 
+### Web Developer Intern
+**SVS Techno Consultants**  
+New Delhi, India  
+**June – August 2020**
 
-### Web Developer Intern 
+- Reduced website loading time by 20% by implementing a new caching system.
+- Developed a new testing script that reduced the time by 10% to test the website.
+- Integrated user accounts and database into the dashboard using ReactJS and MySQL which improved communication and progress updates by 25%.
+- Utilized front-end libraries with React.js and stored user information in Google Firebase to set up two-step authentication methods for protecting user accounts.
 
-**SVS Techno Consultants, New Delhi, India** | *June – August 2020*
-- Revamped the company’s website into a dashboard in a scrum workflow.
-- Participated in weekly meetings, standups, and testing with the web development team
-- Improved the communication and progress updates by 25% among the employers and the administration by integrating user accounts and database into the dashboard
-- Utilized front-end libraries with React.js and stored user information in Google firebase to set up authentication methods for protecting user accounts
-- Developed and tested an email API in Node.js using Send-grid email API library to send automated emails to clients from different applications
+## EDUCATION
 
-## Skills
+**University of Illinois at Chicago**  
+Chicago, IL  
+Bachelor of Science in Computer Science and Minor in Mathematics
 
+## TECHNICAL SKILLS
 
-| Skills		| Description
-| :------------ | :------------------------------------------------------------------------------------	|
-| Languages		| Java, JavaFX, C++, Python, HTML, CSS, JavaScript, Bootstrap, SQL, TypeScript, Ruby, Kotlin 	|
-| Tools & Tech	| Web Development, Google Firebase, Netlify, Arduino, Git, Postman, API, VSCode, GitHub |
-| Frameworks	| React.js, Express.js, Node.js, Tailwind CSS, Material UI, Spring Boot 								|
-
-<!--
-## Projects
-### Cloudgile
-### My Daily Life
-### Ride Sharing
-### COVID-19 Tracker
-### Security System
-### Other Projects
--->
-
-## Relevant Coursework
-- Data Structures and Algorithms
-- Software Design
-- Program Design 
-- Software Engineering 
-- Computer Architecture and Design
-- Databases Systems
-- Web Development and Applications 
-- User Interface Design
-- Object Oriented Programming
+- **FrontEnd:** React.js, Next.js, TypeScript, JavaScript, HTML5, CSS, YARN, ES6, Node, Tailwind CSS, AngularJS
+- **BackEnd:** Java, Spring Boot, MySQL, Python, JUnit
+- **Tools & Technologies:** OpenAI, Prompt Engineering, Jenkins, Git, OpenAI, Firebase, API, Chrome Dev Tools, Hibernate
