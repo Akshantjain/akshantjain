@@ -7,6 +7,11 @@ Princeton, NJ · open to remote work or relocation · [akshantjain.com](https://
 ### Now
 
 - **[DataGOL](https://www.datagol.ai)**: leading the BI analytics module and DAVE, its AI analytics agent, at InnCreTech.
+
+### Open source
+
+Projects I contribute to:
+
 - **[VisvoAI](https://github.com/VisvoAI/visvoai)**: open-source Python packages for building AI agents ([visvoai-ai](https://pypi.org/project/visvoai-ai/), [visvoai-core](https://pypi.org/project/visvoai-core/)) and a terminal coding agent built on them ([visvoai-cli](https://pypi.org/project/visvoai-cli/)). MIT licensed.
 - **[Repolane](https://github.com/aj-oss-tools/repolane)**: run AI coding agents like Claude Code safely across many repositories, one git worktree per task. Apache 2.0.
 
