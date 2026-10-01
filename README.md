@@ -2,7 +2,7 @@
 
 **Software Engineer, AI.** I build AI agents end to end, from open-source agent frameworks to agents running in production.
 
-Princeton, NJ · open to remote work or relocation · [akshantjain.com](https://akshantjain.com)
+Princeton, NJ · [akshantjain.com](https://akshantjain.com)
 
 ### Now
 
