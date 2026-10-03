@@ -19,7 +19,7 @@ Projects I contribute to:
 
 - Lead a team of 4–6 engineers and testers on DataGOL's BI analytics module and its AI agent.
 - Made DataGOL's analytics AI agent 2× faster, raised its answer quality from 2–3 to 4–5 out of 5, and cut its errors by about two-thirds.
-- Took over a client's struggling AI agent and made it 2–3× faster within a 2-week deadline.
+- Stepped in on a performance-critical client AI agent and delivered 2–3× latency gains within a 2-week deadline.
 - Employee of the Year 2024, InnCreTech LLC.
 
 ### Stack
