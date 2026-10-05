@@ -1,6 +1,6 @@
 # Akshant Jain
 
-**Software Engineer, AI.** I build AI agents that run in production, and developer tools that keep AI coding agents safe.
+**Software Engineer, AI.** I build AI agents end to end, from design and evaluation to agents running in production.
 
 Princeton, NJ · [akshantjain.com](https://akshantjain.com)
 
