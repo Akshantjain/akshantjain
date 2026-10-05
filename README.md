@@ -1,6 +1,6 @@
 # Akshant Jain
 
-**Software Engineer, AI.** I build AI agents end to end, from open-source agent frameworks to agents running in production.
+**Software Engineer, AI.** I build AI agents that run in production, and developer tools that keep AI coding agents safe.
 
 Princeton, NJ · [akshantjain.com](https://akshantjain.com)
 
@@ -10,9 +10,8 @@ Princeton, NJ · [akshantjain.com](https://akshantjain.com)
 
 ### Open source
 
-Projects I contribute to:
+Project I contribute to:
 
-- **[VisvoAI](https://github.com/VisvoAI/visvoai)**: open-source Python packages for building AI agents ([visvoai-ai](https://pypi.org/project/visvoai-ai/), [visvoai-core](https://pypi.org/project/visvoai-core/)) and a terminal coding agent built on them ([visvoai-cli](https://pypi.org/project/visvoai-cli/)). MIT licensed.
 - **[Repolane](https://github.com/aj-oss-tools/repolane)**: run AI coding agents like Claude Code safely across many repositories, one git worktree per task. Apache 2.0.
 
 ### Highlights
