@@ -12,7 +12,7 @@ Princeton, NJ · [akshantjain.com](https://akshantjain.com)
 
 Project I contribute to:
 
-- **[Repolane](https://github.com/aj-oss-tools/repolane)**: run AI coding agents like Claude Code safely across many repositories, one git worktree per task. Apache 2.0.
+- **[Repolane](https://github.com/aj-oss-tools/repolane)**: run AI coding agents like Claude Code safely across many repositories, one git worktree per task. Apache 2.0. ([How I built it](https://akshantjain.com/projects/repolane))
 
 ### Highlights
 
@@ -25,4 +25,4 @@ Project I contribute to:
 
 Python · TypeScript · LangGraph · LangChain · MCP · RAG · agent evaluation · FastAPI · Next.js · React · PostgreSQL · Redis · Weaviate · GCP · Docker
 
-[Website](https://akshantjain.com) · [Resume](https://akshantjain.com/resume) · [LinkedIn](https://www.linkedin.com/in/akshantjain/) · [Email](mailto:akshant.jain2@gmail.com)
+[Website](https://akshantjain.com) · [Projects](https://akshantjain.com/projects) · [Resume](https://akshantjain.com/resume) · [LinkedIn](https://www.linkedin.com/in/akshantjain/) · [Email](mailto:akshant.jain2@gmail.com)
